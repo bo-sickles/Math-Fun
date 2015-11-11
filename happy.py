@@ -1,6 +1,7 @@
 import sys
 
 def is_happy(number):
+	#Determines whether a number is happy
 	number = str(number)
 	while len(number) > 1:
 		number.split()
